@@ -1,4 +1,4 @@
-package com.smart.reflect;
+package com.smart.domain;
 
 public class Car {
     private String brand;
